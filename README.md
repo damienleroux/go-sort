@@ -1,15 +1,11 @@
 # go-sort
 
-Playground to test sort algorithm in Go
+Playground to test sort algorithms in Go.
+
+Find alogirthms within `algorithm` folder.
 
 ## Run tests
 
 ```sh
-  go test .
+  go test ./...
 ```
-
-## Algorithms
-
-### Quick sort
-
-The implemented Quick sort algorithm follows intruction from https://runestone.academy/runestone/books/published/pythonds/SortSearch/TheQuickSort.html
