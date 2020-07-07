@@ -2,7 +2,7 @@
 
 Playground to test sort algorithms in Go.
 
-Find alogirthms within `algorithm` folder.
+Find alogrithms within `algorithm` folder.
 
 ## Run tests
 
